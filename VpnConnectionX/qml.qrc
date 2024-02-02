@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QML/Windows/WN_App.qml</file>
+        <file>QML/Windows/WN_Loading.qml</file>
+        <file>QML/Windows/WN_Startup.qml</file>
+    </qresource>
+</RCC>
